@@ -2,7 +2,7 @@
 ## Exploring weather trends around the world
 In order to identify weather trends as a function of location on the globe, the parameters selected for characterizing weather were temperature, humidity, cloudiness, and wind speed. The places used for weather data collection were cities selected on the whole range latitudes, and random longitudes. 
 
-<img src=WeatherPy/Images/CitiesDataSetEg.PNG>|
+<img src=WeatherPy/Images/CitiesDataSetEg.PNG width=500>|
 :-------------------------:|
 Extract from the data used for analysis|
 
