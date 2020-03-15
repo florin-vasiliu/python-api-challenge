@@ -2,6 +2,10 @@
 ## Exploring weather trends around the world
 In order to identify weather trends as a function of location on the globe, the parameters selected for characterizing weather were temperature, humidity, cloudiness, and wind speed. The places used for weather data collection were cities selected on the whole range latitudes, and random longitudes. 
 
+<img src=WeatherPy/Images/CitiesDataSetEg.PNG>|
+:-------------------------:|
+Extract from the data used for analysis|
+
 The charts below represent the weather parameters in relation to the latitude of the selected cities. The only parameter which seems to be dependent of the latitude is the temperature. The shape of the correlation seems to have an inflection point at zero degrees latitude, which corresponds to the equator.
 
 <img src=WeatherPy/Images/Cloudiness%20%5B%25%5D_vs_latitude.png> | <img src=WeatherPy/Images/Humidity%20%5B%25%5D_vs_latitude.png>
